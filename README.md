@@ -16,7 +16,7 @@ A clean, modern, and responsive **Basic Calculator** built with **HTML**, **CSS*
 
 ## 🔗 Live Demo
 
-[🔗 Click Here to Try the Calculator](https://looplearner12.github.io/Basic-Calculator/)
+[🔗 Click Here to Try the Calculator](https://ankita-biswal67.github.io/Basic-Calculator/)
 
 ---
 
